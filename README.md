@@ -4,7 +4,9 @@ This is a role-playing game simulating rural life using pixel art. The game prov
 
 ## Technolgy
 Programming Language: C#
+
 Game Engine: Unity
+
 Art Tool: Aseprite
 
 ## Features
