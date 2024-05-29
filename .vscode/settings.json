@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "HarvestHUB.sln"
+    "dotnet.defaultSolution": "HarvestHub.sln"
 }
