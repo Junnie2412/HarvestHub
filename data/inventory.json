@@ -2,15 +2,19 @@
     "target": [
         {
             "type": 0,
-            "qty": 15
+            "qty": 29
         },
         {
             "type": 1,
-            "qty": 15
+            "qty": 25
         },
         {
             "type": 2,
-            "qty": 15
+            "qty": 28
+        },
+        {
+            "type": 3,
+            "qty": 7
         }
     ]
 }
