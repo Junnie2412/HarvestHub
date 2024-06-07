@@ -12,11 +12,11 @@ EditorBuildSettings:
     path: Assets/Scenes/StartScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 0
-    path: Assets/Scenes/WeatherTestScene.unity
-    guid: d928ff6486c38234787fbb558aef0dc2
-  - enabled: 1
     path: Assets/Scenes/SeasonTestScene.unity
     guid: 0da0b18df6960e84aa2a011f6d8742ef
+  - enabled: 1
+    path: Assets/Scenes/NPCTestScene.unity
+    guid: b72575ad8f111574a83bcdfbe0517f2c
   - enabled: 1
     path: Assets/Scenes/HouseScene.unity
     guid: 9b9e348347aa25c4190e5e3e1eaa0fae
