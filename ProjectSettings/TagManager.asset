@@ -7,6 +7,8 @@ TagManager:
   - InventoryItem
   - GameManager
   - Harvestable
+  - ItemManager
+  - Inventory
   layers:
   - Default
   - TransparentFX
