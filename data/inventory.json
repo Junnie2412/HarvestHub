@@ -1,20 +1,16 @@
 {
     "target": [
         {
-            "type": 0,
-            "qty": 26
-        },
-        {
-            "type": 1,
-            "qty": 25
-        },
-        {
-            "type": 2,
-            "qty": 27
+            "type": 6,
+            "qty": 2
         },
         {
             "type": 3,
-            "qty": 2
+            "qty": 1
+        },
+        {
+            "type": 5,
+            "qty": 8
         }
     ]
 }
