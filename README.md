@@ -26,18 +26,18 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Key Codes
 Here are the key codes and their corresponding actions in the game:
 
-| Key Code | Action           |
-|----------|------------------|
-| `W`      | Move Up          |
-| `A`      | Move Left        |
-| `S`      | Move Down        |
-| `D`      | Move Right       |
-| `Esc`    | Pause Menu       |
-| `E`      | Interact         |
-| `I`      | Open Inventory   |
-| `Q`      | Watering         |
-| `Space`  | Hoe              |
-| `M`      | Open Map         |
+| Key Code    | Action           |
+|-------------|------------------|
+| `W`         | Move Up          |
+| `A`         | Move Left        |
+| `S`         | Move Down        |
+| `D`         | Move Right       |
+| `Esc`       | Pause Menu       |
+| `E`         | Interact         |
+| `I`         | Open Inventory   |
+| `Q`         | Watering         |
+| `Space`     | Hoe              |
+| `LeftMouse` | Sowing Seeds     |
 
 ## Demo
 ### Main Menu
