@@ -41,3 +41,8 @@ Here are the key codes and their corresponding actions in the game:
 ### Main Menu
 ![MainMenu](https://github.com/Junnie2412/HarvestHub/assets/101618720/ab12b2aa-fc2d-4051-aca9-0552f130b96e)
 
+### Farm
+![Farm](https://github.com/user-attachments/assets/e86a86c5-47c0-4abe-a8a8-ae8314fb628c)
+
+### Town
+![Town](https://github.com/user-attachments/assets/c0b98025-298d-43f8-9b44-d618aa0fe836)
