@@ -35,6 +35,8 @@ Here are the key codes and their corresponding actions in the game:
 | `Esc`    | Pause Menu       |
 | `E`      | Interact         |
 | `I`      | Open Inventory   |
+| `Q`      | Watering         |
+| `Space`  | Hoe              |
 | `M`      | Open Map         |
 
 ## Demo
